@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:graphql_Assignment" x:Class="graphql_Assignment.MainPage">
+
+<!--    <Label x:Name = "check"/>-->
+ <ListView x:Name="listViewFilms" >
+ <ListView.ItemTemplate>
+ <DataTemplate>
+   
+ <TextCell Text="{Binding title}" Detail="{Binding director}" TextColor="Blue" DetailColor="Fuchsia"></TextCell>           
+               
+ </DataTemplate>
+ </ListView.ItemTemplate>
+ </ListView>
+    
+    
+    
+</ContentPage>

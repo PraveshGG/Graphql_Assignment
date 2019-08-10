@@ -1,0 +1,12 @@
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/bin/Debug/netstandard2.0/graphql_Assignment.deps.json
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/bin/Debug/netstandard2.0/graphql_Assignment.dll
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/bin/Debug/netstandard2.0/graphql_Assignment.pdb
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.csprojAssemblyReference.cache
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.csproj.CoreCompileInputs.cache
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.AssemblyInfoInputs.cache
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.AssemblyInfo.cs
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.dll
+/Users/praveshgiri/Projects/graphql_Assignment/graphql_Assignment/obj/Debug/netstandard2.0/graphql_Assignment.pdb
